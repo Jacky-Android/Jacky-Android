@@ -35,13 +35,13 @@ Rear , Web3 and Blockchain Development Engineers
 [![Gitee](https://img.shields.io/badge/-Gitee-EA4335?style=flat-square&logo=Gitee&logoColor=white)](https://gitee.com/duktig666)
 [![CSDN](https://img.shields.io/badge/-CSDN-c14438?style=flat-square&logo=C&logoColor=white)](https://blog.csdn.net/qq_42937522?spm=1000.2115.3001.5343)
 [![jianshu](https://img.shields.io/badge/-jianshu-c14438?style=flat-square&logo=简&logoColor=white)](https://www.jianshu.com/u/421632ec0dc8)
-[![Email](https://img.shields.io/badge/gmail-ren_shi_wei@qq.com-Green?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ren_shi_wei@qq.com)](mailto:ren_shi_wei@qq.com)
+[![Email](https://img.shields.io/badge/gmail-ren_shi_wei@qq.com-Green?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ren_shi_wei@qq.com)](mailto:1440414483@qq.com)
 
 ## GitHub Infos
 <img src="https://github-profile-trophy.vercel.app/?username=Jacky-Android&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto;" />
 
 <!-- <a href="https://github.com/Jacky-Android">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?usernameJacky-Android&layout=compact&theme=vue" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Jacky-Android&layout=compact&theme=vue" />
 </a>
 
 [![Anser's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jacky-Android&layout=compact&custom_title=Wakatime%20Stats%20(this%20week))](https://wakatime.com/@Jacky-Android)
