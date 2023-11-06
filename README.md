@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 -->
 
 
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 # Hi,I'm Jacky-Android! 👋
-Rear , Web3 and Blockchain Development Engineers
+
+
 
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Jacky-Android&show_icons=true&count_private=true&theme=vue" alt="logo" height="160" align="right" width="50%" />
 
