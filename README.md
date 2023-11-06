@@ -21,8 +21,8 @@ Rear , Web3 and Blockchain Development Engineers
 
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=duktig666&show_icons=true&count_private=true&theme=vue" alt="logo" height="160" align="right" width="50%" />
 
-- 🌱 I’m currently learning **BlockChain** and **Web3**.
-- 💬 Ask me about **Java,Golang,BlockChain,Web3** technology.
+- 🌱 I’m currently learning **Deep-Learning** and **Remote Sening segmentation**.
+- 💬 Ask me about **Python,pytorch,web** technology.
 - ⚡ Fun fact: 
   - Write technical and life articles.
   - "Hardcore fiction reader".
