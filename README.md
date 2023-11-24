@@ -107,57 +107,7 @@ Here are some ideas to get you started:
 
 
 
----
-<p align="center">
-<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/python-FFFF00.svg?style=for-the-badge&logo=python&logoColor=0768a8&labelColor=ffffff" alt="python"></a>
-<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/C++-4B0082.svg?style=for-the-badge&logo=c%2B%2B&logoColor=4B0082&labelColor=ffffff" alt="cplusplus"></a>
-<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/JS-f5f542.svg?style=for-the-badge&logo=javascript&logoColor=f5f542&labelColor=ffffff" alt="javascript"></a>
-<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/GO-42c8f5.svg?style=for-the-badge&logo=go&logoColor=42c8f5&labelColor=ffffff" alt="golang"></a>
-<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/BASH-4a5057.svg?style=for-the-badge&logo=gnu-bash&logoColor=4a5057&labelColor=ffffff" alt="bash"></a>
-<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/PHP-6566ba.svg?style=for-the-badge&logo=php&logoColor=6566ba&labelColor=ffffff" alt="javascript"></a>
-<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/scala-red.svg?style=for-the-badge&logo=scala&logoColor=red&labelColor=ffffff" alt="scala"></a>
-</p><be>
-<p align="center">
-<a href="https://github.com/priyanshumay">
-<img src="https://img.shields.io/badge/vscode-blue.svg?style=for-the-badge&logo=visual-studio-code&labelColor=ffffff&logoColor=blue" alt="vscode">
-</a>
-<a href="https://github.com/priyanshumay"><img src="https://img.shields.io/badge/vim-darkgreen.svg?style=for-the-badge&logo=vim&logoColor=darkgreen&labelColor=ffffff" alt="vim"></a>
-</p><br>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-
----
-<!--START_SECTION:waka-->
-**I'm an early 🐤** 
-
-```text
-🌞 Morning    95 commits     ███████░░░░░░░░░░░░░░░░░░   30.55% 
-🌆 Daytime    78 commits     ██████░░░░░░░░░░░░░░░░░░░   25.08% 
-🌃 Evening    112 commits    █████████░░░░░░░░░░░░░░░░   36.01% 
-🌙 Night      26 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.36%
-
-```
 
 
-📊 **This week I spent my time on** 
 
-```text
-⌚︎ Timezone: Asia/Calcutta
-
-💬 Languages: 
-Python                   6 hrs 40 mins       █████████░░░░░░░░░░░░░░░░   39.01% 
-c                        2 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.28% 
-PHP                      2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.49% 
-Markdown                 2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   11.89% 
-YAML                     1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.87%
-
-🔥 Editors: 
-VsCode                   9 hrs 32 mins       ██████████████░░░░░░░░░░░   55.81% 
-PyCharm                  5 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   29.71% 
-PhpStorm                 2 hrs 28 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.49%
-
-💻 Operating Systems: 
-Windows                  17 hrs 5 mins       █████████████████████████   100.0%
-
-```
-<!--END_SECTION:waka-->
-⭐️ From [@AnhellO](https://github.com/Jacky-Android)
+⭐️ [Jacky-Android](https://github.com/Jacky-Android)
